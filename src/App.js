@@ -1,10 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
-import ClassCounter from "./components/ClassCounter";
-import HookCounter from "./components/HookCounter";
-import HookCounterTwo from "./components/HookCounterTwo";
-import HookCounterThree from "./components/HookCounterThree";
-import HookCounterFour from "./components/HookCounterFour";
+import ClassCounter from "./components/useState/ClassCounter";
+import HookCounter from "./components/useState/HookCounter";
+import HookCounterTwo from "./components/useState/HookCounterTwo";
+import HookCounterThree from "./components/useState/HookCounterThree";
+import HookCounterFour from "./components/useState/HookCounterFour";
 
 function App() {
   return (
